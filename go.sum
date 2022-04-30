@@ -1,0 +1,4 @@
+github.com/alphadose/zenq v0.0.0-20220427151350-4739710dbcee h1:uJ5B03NRjjjO2w+0ybD0yDARCs+DY2g0tFmhMEaCuAM=
+github.com/alphadose/zenq v0.0.0-20220427151350-4739710dbcee/go.mod h1:G21NpFAS9GQ5yA+P7xpqok3ZOsn5ao96Rc0vWhHyz0g=
+github.com/lemon-mint/go-datastructures v1.1.0 h1:c+cgKIbN24YlTAvqcKc+nSee0nhBgQiB8T+fIDRKn8g=
+github.com/lemon-mint/go-datastructures v1.1.0/go.mod h1:cwivqIWFSpyYmOh6ZajGMZ7oFfyauKSn4g3/L56bFmY=
