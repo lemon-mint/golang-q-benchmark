@@ -1,4 +1,10 @@
 github.com/alphadose/zenq v0.0.0-20220427151350-4739710dbcee h1:uJ5B03NRjjjO2w+0ybD0yDARCs+DY2g0tFmhMEaCuAM=
 github.com/alphadose/zenq v0.0.0-20220427151350-4739710dbcee/go.mod h1:G21NpFAS9GQ5yA+P7xpqok3ZOsn5ao96Rc0vWhHyz0g=
+github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/lemon-mint/go-datastructures v1.1.0 h1:c+cgKIbN24YlTAvqcKc+nSee0nhBgQiB8T+fIDRKn8g=
 github.com/lemon-mint/go-datastructures v1.1.0/go.mod h1:cwivqIWFSpyYmOh6ZajGMZ7oFfyauKSn4g3/L56bFmY=
+github.com/lemon-mint/unlock v1.2.1 h1:LpmsvYVxzGOAzn/D7yoP636qdHcHZa3dAJkb557mx9A=
+github.com/lemon-mint/unlock v1.2.1/go.mod h1:OXlnfT0ysHEkNZC7lZWJvkFMzOOl89F+Nibpa/YbNA4=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
+gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c h1:dUUwHk2QECo/6vqA44rthZ8ie2QXMNeKRTHCNY2nXvo=
