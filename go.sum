@@ -4,6 +4,9 @@ github.com/alphadose/zenq v0.0.0-20220502143010-4e6e21f7082f h1:Pcv1zy194qEgsmdM
 github.com/alphadose/zenq v0.0.0-20220502143010-4e6e21f7082f/go.mod h1:G21NpFAS9GQ5yA+P7xpqok3ZOsn5ao96Rc0vWhHyz0g=
 github.com/alphadose/zenq v0.0.0-20220502183852-b60e05b3c9ae h1:v7m7UNOK+4Nje+28Obxp5/jQkBEafrXSVqzVwWPssvg=
 github.com/alphadose/zenq v0.0.0-20220502183852-b60e05b3c9ae/go.mod h1:G21NpFAS9GQ5yA+P7xpqok3ZOsn5ao96Rc0vWhHyz0g=
+github.com/alphadose/zenq v0.0.0-20220714061444-fdf27ea15dc2 h1:FzRdj5lP5ebLkUBv4vV8YiAw5Ztq29VVRx+PxWpi/ck=
+github.com/alphadose/zenq v0.0.0-20220714061444-fdf27ea15dc2/go.mod h1:G21NpFAS9GQ5yA+P7xpqok3ZOsn5ao96Rc0vWhHyz0g=
+github.com/alphadose/zenq/v2 v2.6.3/go.mod h1:PhaQ2xlLAl7mZnkYH9xLfOXgLCTG7FGU83cem4YFzEI=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/lemon-mint/go-datastructures v1.1.0 h1:c+cgKIbN24YlTAvqcKc+nSee0nhBgQiB8T+fIDRKn8g=
 github.com/lemon-mint/go-datastructures v1.1.0/go.mod h1:cwivqIWFSpyYmOh6ZajGMZ7oFfyauKSn4g3/L56bFmY=
