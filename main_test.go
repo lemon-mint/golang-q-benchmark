@@ -4,7 +4,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/alphadose/zenq"
+	"github.com/alphadose/zenq/v2"
 	"github.com/lemon-mint/go-datastructures/queue"
 	"github.com/lemon-mint/unlock"
 )
@@ -15,13 +15,13 @@ type User struct {
 }
 
 func BenchmarkZenQ(b *testing.B) {
-	q := zenq.New[User]()
+	q := zenq.New[User](4096)
 	b.RunParallel(
 		func(p *testing.PB) {
 			v0 := User{Name: "John", Age: 30}
 			for p.Next() {
 				q.Write(v0)
-				v1 := q.Read()
+				v1, _ := q.Read()
 				if v1 != v0 {
 					b.Error("unexpected value")
 				}
