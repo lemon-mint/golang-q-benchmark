@@ -1,5 +1,3 @@
-github.com/alphadose/zenq/v2 v2.7.0 h1:nsl+hDIkw0GCsv1qZNNn2p1aldErs/mK8zehE/Bgdw4=
-github.com/alphadose/zenq/v2 v2.7.0/go.mod h1:PhaQ2xlLAl7mZnkYH9xLfOXgLCTG7FGU83cem4YFzEI=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/lemon-mint/go-datastructures v1.1.0 h1:c+cgKIbN24YlTAvqcKc+nSee0nhBgQiB8T+fIDRKn8g=
 github.com/lemon-mint/go-datastructures v1.1.0/go.mod h1:cwivqIWFSpyYmOh6ZajGMZ7oFfyauKSn4g3/L56bFmY=

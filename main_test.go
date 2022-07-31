@@ -4,7 +4,6 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/alphadose/zenq/v2"
 	"github.com/lemon-mint/go-datastructures/queue"
 	"github.com/lemon-mint/unlock"
 )
@@ -14,6 +13,7 @@ type User struct {
 	Age  int
 }
 
+/*
 func BenchmarkZenQ(b *testing.B) {
 	q := zenq.New[User](4096)
 	b.RunParallel(
@@ -29,6 +29,7 @@ func BenchmarkZenQ(b *testing.B) {
 		},
 	)
 }
+*/
 
 func BenchmarkStdChan(b *testing.B) {
 	q := make(chan User, 4096)
